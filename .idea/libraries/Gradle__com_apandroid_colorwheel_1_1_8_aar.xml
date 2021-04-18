@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.apandroid:colorwheel:1.1.8@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7e15ba112cd60a47d9fc6c8cfa152757/colorwheel-1.1.8/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7e15ba112cd60a47d9fc6c8cfa152757/colorwheel-1.1.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7e15ba112cd60a47d9fc6c8cfa152757/colorwheel-1.1.8/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.apandroid/colorwheel/1.1.8/4cb3efde2d3052ea42ad97cbbb47202f31f01f7e/colorwheel-1.1.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.apandroid/colorwheel/1.1.8/cb46eecd434154ac5b3bb32e38d399f05de8ea37/colorwheel-1.1.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
